@@ -71,4 +71,27 @@
 <p>最后说一下<code>博客寄语</code>吧~</p>
 <a class="button  center regular" href='/' title='成功不是偶然，而是坚持不懈的结果~'><i class='fa-brands fa-airbnb'></i> 成功不是偶然，而是坚持不懈的结果~</a>]]></content>
   </entry>
+  <entry>
+    <title>About Me</title>
+    <url>/2024/08/13/About-Me/</url>
+    <content><![CDATA[
+<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="aef6647ecd0730030687fb1fd25f22c7e55a80649ba14015b3e43f631ff9ad04">07b348dae4df9f0383703ac21b2204fc882eb5fa083b372d9ce4f7bf8167a277f4738bdabc2e03fd2ebb47b2d7fa80e28aae9e99dd520dc6c3ba81eadd809f60edc91a2fa80863d198096acca7be87a37121dc6b71ebee7b0d148f2dc60ce40b</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-swup-reload-script src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>Me</tag>
+      </tags>
+  </entry>
 </search>
